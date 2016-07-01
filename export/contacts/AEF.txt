@@ -1,0 +1,19 @@
+---
+- ID: 61967220
+  Name: AEF
+- Contact: 
+  - 
+    - Addresses
+    - 
+      - Africa
+      - |-
+          contact in the new year
+          189
+          X, UPDATE canceled call, left for leave until nov 24th
+          
+          ******************************************
+  - 
+    - Email_addresses
+    - 
+      - bctepli@kikionc.com
+- Background: 189 Connected by Iceafw. He is director for AEF in Africa and has a financial services / VC background- lots of contacts (recommended by Iefoleahivedsa as well)

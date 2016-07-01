@@ -1,0 +1,19 @@
+---
+- ID: 107567485
+  Name: Atjspin Endikew
+  Tags: 
+  - Benin
+- Company: 
+  ID: 107567486
+  Name: Liporspateds of Luriperanat
+- Contact: 
+  - 
+    - Phone_numbers
+    - 
+      - 8813596274
+      - (0012) 16 00 39 36
+  - 
+    - Email_addresses
+    - 
+      - atjspin.endikew@yahoo.fr
+- Background: Wants to create venture funds in Togo and Benin.  Interested to use the test to help identify candidates.  Was going to send info on their proposal so that we could comment.

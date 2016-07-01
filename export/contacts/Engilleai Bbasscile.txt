@@ -1,0 +1,78 @@
+---
+- ID: 72021800
+  Name: Engilleai Bbasscile
+- Contact: 
+  - 
+    - Email_addresses
+    - 
+      - Engilleai.Bbasscile@piforegimdd.com
+- Email 57029185: 
+  - 
+    Author: Lontylalescy E.
+  - 
+    Written: "May 22, 2011 16:10"
+  - 
+    About: Engilleai Bbasscile
+  - 
+    Subject: "Re: Meeting"
+  - 
+    Body: |+
+      Dear Engilleai-
+      
+      I am sorry I wasn't able to call you on Friday.  I am just about to set off
+      on a 3 week trip through Asia (part work, part vacation) and had to spend
+      the day running around to tie up some loose ends.
+      
+      To give you an update on the status of our Egypt plans- we have translated
+      the test in to Arabic for Egypt, and are starting the process of programming
+      it. In the meantime, our local partners at CCC are arranging a launch plan
+      with Hiamab and the Smoscen Institute, but we've placed all of that in a
+      holding pattern while we wait for word back from USAID. We've send a
+      reminder to USAID to get an update on the status of our application, and
+      that funding is a prerequisite for our entry into the Egyptian market this
+      year.
+      
+      Hopefully, within the next few weeks we'll hear back positive news from
+      them, and then we can talk to plan more concretely how we could collaborate
+      and find additional markets and users for this tool in Egypt. I will be in
+      touch as soon as I hear back from them.
+      
+      All the best,
+      Lonty
+      
+      -----------------------------------------------------
+      Lontylalescy Ermptind
+      Director, Entrepreneurial Finance Lab
+      lermptind@efinlab.com
+      www.entrepreneurialfinancelab.com
+      
+- Note 61657527: 
+  - 
+    Author: Lontylalescy E.
+  - 
+    Written: "June 29, 2011 14:18"
+  - 
+    About: Engilleai Bbasscile
+  - 
+    Body: |-
+      Call w/ Engilleai June 29 2011 - Chair of entrepreneurship at  CCC, also involved with the american chamber of commerce. Very keen on EFL. Explained links with Blinikindintat & IMPA and we have to walk that line, he understands, is keen to promote EFL and partner with CCC even if 3-way, or to help how he can to bring EFL to Egypt.
+
+- Note 67848768: 
+  - 
+    Author: Spiaolaprecchi
+  - 
+    Written: "August 04, 2011 22:07"
+  - 
+    About: Engilleai Bbasscile
+  - 
+    Body: |+
+      notes from board meeting week:
+      
+      Eammtipropes bank - govt trying to buy it to convert to SME bank
+      
+      Mtantedcetet foundation Qatar - http://www.mtantedcetet.com/ - goal to create jobs across the region.
+      
+      CCC - entrepreneurial research for the region
+      
+      idea - why doesn't EFL test gameability ourselves?
+      

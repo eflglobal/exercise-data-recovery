@@ -1,0 +1,41 @@
+---
+- ID: 612345
+  Name: Banco Sblonghe (Costa Rica)
+- Note 86458169: 
+  - 
+    Author: Apamate
+  - 
+    Written: "January 18, 2012 21:25"
+  - 
+    About: Banco Sblonghe (Costa Rica)
+  - 
+    Body: |-
+      -Bank introduced to EFL through Inrefrefisense
+      - EFL had a first call on 1/16.  
+      - They are currently attending Micro through MFIs (second tier)
+      - Bad is a PAR 90 (2.5%)
+      - Did not have many details about growth projections
+      - Approval rate is "high" according to them
+      - Asked a few questions about the maximum # of tests that they could push through a day (a good sign!)
+      - Tough to tell though how excited they are.  First meetings by phone are challenging. 
+- Email 86459497: 
+  - 
+    Author: Enthleft
+  - 
+    Written: "January 18, 2012 21:30"
+  - 
+    About: Miteentm Ipacibofti
+  - 
+    Subject: Propuesta EFL para BS
+  - 
+    Body: "Estimados Stitefev, Unsenuenum y Odylaswidele,\n\n\
+      \x20\n\n\
+      Dando seguimiento nuestra conversación, les envío una propuesta para un\n\
+      piloto con EFL.  Pensamos que las nuevas herramientas EFL permitirían una\n\
+      evaluación masiva y estandarizada de pequeños emprendedores, expandiendo el\n\
+      mercado de clientes potenciales para el Banco Sblonghe.\n\
+      Una vez que hayan podido revisar el adjunto, me gustaría agendar una reunión\n\
+      por teléfono o en persona para responder a sus preguntas y compartir algunas\n\
+      lecciones aprendidas y buenas prácticas de otros bancos que emplean las\n\
+      herramientas EFL en su estrategia de crecimiento en el sector PyME.  \n\n\
+      "

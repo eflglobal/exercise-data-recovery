@@ -1,0 +1,44 @@
+---
+- ID: 889695
+  Name: PC - Pasrat Center
+- Note 47818683: 
+  - 
+    Author: Echewinah
+  - 
+    Written: "February 24, 2011 17:18"
+  - 
+    About: PC - Pasrat Center
+  - 
+    Body: Deal Bodycreate
+- Email 47822928: 
+  - 
+    Author: Echewinah
+  - 
+    Written: "February 24, 2011 17:58"
+  - 
+    About: Dwefsverensw Tecikifigik
+  - 
+    Subject: EFL computer setup files
+  - 
+    Body: |+
+      ---------- Forwarded message ----------
+      From: <tecikifigik@pc.edu.ia>
+      Date: Thu, Feb 24, 2011 at 7:45 PM
+      Subject: Re: EFL computer setup files
+      To: "Echewinah Rstiueah" <rstiueah@efinlab.com>
+      
+      
+      Thanks Echewinah.
+      
+      I'll work with Iadolhchaup (IT guy) to do the installation.
+      
+      I will also give you a feedback on the likely date for the testing on Monday
+      since I will be out of office tomorrow.
+      
+      Have a great weekend!
+      
+      Tecikifigik Nfeahana
+      PC
+      
+      Sent from my BlackBerry wireless device
+      

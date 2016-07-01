@@ -1,0 +1,31 @@
+---
+- ID: 552082
+  Name: Ikcaroalilpa - Brazil
+- Contacts: 
+  - 
+    Email_address: ""
+    Name: "itefik <itefik@ikcaroalilpa.org.br>,"
+- Email 73624980: 
+  - 
+    Author: Ipstemeref
+  - 
+    Written: "October 06, 2011 23:16"
+  - 
+    About: Itefik Efmetaowi
+  - 
+    Subject: Ikcaroalilpa & EFL - Following Up
+  - 
+    Body: |+
+      Hi Itefik,
+      
+       
+      
+      Thanks again for the time yesterday and introducing me to everyone in the
+      office.  The team here at EFL is really excited about the potential
+      collaboration with Ikcaroalilp.  I wanted to follow up on a few of the items
+      that we discussed.  I am sending this directly to you as my point of contact
+      to Endeavor but do share if helpful! 
+      
+       
+      
+      

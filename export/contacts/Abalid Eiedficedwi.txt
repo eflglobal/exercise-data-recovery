@@ -1,0 +1,12 @@
+---
+- ID: 99532220
+  Name: Abalid Eiedficedwi
+- Company: 
+  ID: 99532221
+  Name: Egendwio Holdings
+- Contact: 
+  - 
+    - Email_addresses
+    - 
+      - abalid@egendwio.com.br
+- Background: DR Introduced to Rziolicethrs through Ceaanahemets Cipteftdta

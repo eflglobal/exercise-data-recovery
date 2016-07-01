@@ -1,0 +1,45 @@
+---
+- ID: 580239
+  Name: Banco Uprefaba (Bolivia)
+- Note 79474376: 
+  - 
+    Author: Ediehrikedbn
+  - 
+    Written: "November 22, 2011 19:47"
+  - 
+    About: Banco Uprefaba (Bolivia)
+  - 
+    Body: |
+      •	MU/NG/ED met team on 11/13 with BU at Redeinty.  
+      •	Uportelaca is the biggest shareholder and president of the board and very enthusiastic. 
+      •	They are the 42nd biggest bank in Bolivia and 80% of their portfolio is PYME.  
+      •	They expressed a very high level of interst.  
+      •	DA/SK had a follow-up meeting on 11.15 and defined requirements in great depth.  
+      o	They have roughly 350 customers/ month that they could test and are willing to put up some of the portfolio for EFL YES/ Bank No lending (number TBD)
+      o	DA to follow up regarding sequencing of 
+      	Number of tests (ballpark will be 3K-4K)
+      	Amount of funds to put “at risk” for EFL YES BANK NO lending
+      	Assignment of project manager
+      	Products to be included in pilot
+      	Legal review
+      	Incentives for loan officers
+      	Platform and place of testing
+      	Timeline and next steps
+      o	BU wants to launch on Jan 9, 2011
+- Email 79474719: 
+  - 
+    Author: Lexterextiam
+  - 
+    Written: "November 22, 2011 19:49"
+  - 
+    About: Tenierroxpr
+  - 
+    Subject: Propuesta y Proximos Pasos - EFL & Banco Uprefaba
+  - 
+    Body: "Estimado Peaonghteseda y Efwlunsesud,\n\n\
+      \x20\n\n\
+      Fue un gusto conocerlos en Olitex y aprender más sobre el trabajo de Banco\n\
+      Uprefaba en el sector PYME.  Compartimos su interés en trabajar juntos y\n\
+      pensamos que el timing es ideal dado el apoyo generoso de FOMIN.   \n\n\
+      \x20\n\n\
+      "

@@ -1,0 +1,50 @@
+---
+- ID: 577731
+  Name: Epititwilantu (Peru)
+- Contacts: 
+  - 
+    Email_address: orstin@epititwilantu.com.pe
+    Name: Orstin Witresspotu
+- Note 78953610: 
+  - 
+    Author: Itoginrefto
+  - 
+    Written: "November 17, 2011 21:29"
+  - 
+    About: Epititwilantu (Peru)
+  - 
+    Body: |
+      •	SS met Epititwilantu on 11/14 at Lenfmanseseryb.  
+      •	They are a very innovative group but a tough group two.  The conversation went back and forth, but at no point were they totally convinced.  
+      •	SS requested meeting and will send questions regarding pilot dimensions if they respond in the affirmative.  
+       
+- Note 78953690: 
+  - 
+    Author: Itoginrefto
+  - 
+    Written: "November 17, 2011 21:29"
+  - 
+    About: Epititwilantu (Peru)
+  - 
+    Body: ""
+- Email 78953995: 
+  - 
+    Author: Itoginrefto
+  - 
+    Written: "November 17, 2011 21:31"
+  - 
+    About: Ithtokab' 'Atefiorf Isserf
+  - 
+    Subject: Proximos Pasos - Epititwilantu y EFL
+  - 
+    Body: "Estimados Luleiepr, Efcofftlar y Ienitishti,\n\n\
+      \x20\n\n\
+      Fue un placer conocerlos en Adoponcah.  Dando seguimiento a nuestra\n\
+      conversación, quisiera ver la posibilidad de reunirnos en Lima entre el 6 al\n\
+      8 de diciembre para conversar en mayor detalle sobre una potencial\n\
+      colaboración entre Epititwilantu y EFL tanto como dimensiones más concretas de\n\
+      un piloto inicial.  Cabe recalcar que XAU está cubriendo una parte\n\
+      importante de los costos para los próximos tres bancos que realizan pilotos\n\
+      a escala con EFL.  \n\n\
+      \x20\n\n\
+      "

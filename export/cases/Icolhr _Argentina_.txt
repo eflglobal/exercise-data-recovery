@@ -1,0 +1,27 @@
+---
+- ID: 580322
+  Name: Icolhr (Argentina)
+- Note 79493602:
+  -
+    Author: Arcpunch I.
+  -
+    Written: "November 22, 2011 21:44"
+  -
+    About: Icolhr (Argentina)
+  -
+    Body: Banco Icolhr in Argentina.  They gave Diemefabofm a card and then talked to Reanef Edtokitibo at PxTogo 2011.
+- Email 79494283:
+  -
+    Author: Dencoowins Rasrta
+  -
+    Written: "November 22, 2011 21:48"
+  -
+    About: Diemefabofm Itantoanst
+  -
+    Subject: Version español con correcciones
+  -
+    Body: |-
+      From: Diemefabofm Itantoanst [mailto:ditantoanst@efinlab.com]
+      Sent: Tuesday, November 15, 2011 5:03 PM
+      To: Dencoowins Rasrta
+      Subject: Fwd: Version español con correcciones

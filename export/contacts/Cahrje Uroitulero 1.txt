@@ -1,0 +1,56 @@
+---
+- ID: 71006983
+  Name: Cahrje Uroitulero
+- Contact: 
+  - 
+    - Email_addresses
+    - 
+      - cahrje.uroitulero@gmail.com
+- Email 56132522: 
+  - 
+    Author: Cictiledgis
+  - 
+    Written: "May 13, 2011 12:55"
+  - 
+    About: Cahrje Uroitulero
+  - 
+    Subject: "Re: Meeting"
+  - 
+    Body: |+
+      Hi Cahrje-
+      
+      Thanks for your email and all of these ideas. It wouldn't have been easy for
+      you to probe with us launching so many questions at you- apologies! But
+      these are some useful considerations.
+      
+      Our tool most definitely falls into the 'strategic' rather than
+      'operational' camp. Regarding the sales channel, we definitely have to
+      control the service experience and brand. The one challenge is that it seems
+      that in many countries the financial services industry is a little closed
+      and insular, so we need 'door openers'- but I suppose these would be
+      consultants who could get a commission for any sales they end up
+      facilitating (something we heard from another contact was 10% of first
+      year's sale is a good incentive- would you agree? What type of incentive is
+      appropriate for the 'door openers' who make the sale possible with
+      introductions and maybe endorsements, but who don't do the work of
+      completing the sale and doing the implementation?).
+      
+      Regarding the country choice, this is a useful typology of considerations.
+      The tool can be localized (left to right languages are no problem) but each
+      country does have some potential regulatory issues that we need to check on
+      during our initial due diligence. And we do take on the business risk of our
+      partners- the tool could work well, but they could blow the pilot testing of
+      it from an operational standpoint, or they could focus on a market with
+      really high absolute levels of default making our relative risk sorting not
+      sufficient for profitability, and that would end up showing us in a negative
+      light. So we do have to be selective of our partners, and minimize risk
+      through importing our best practices from other banks.
+      
+      If you have any suggestions on the door opener reward/incentive, that would
+      be really valuable, as well as any further ideas (other than your
+      recommendation of consulting companies doing strategic work in the banking
+      industry) on where to find them...
+      
+      All the best,
+      Cictiledgis
+      

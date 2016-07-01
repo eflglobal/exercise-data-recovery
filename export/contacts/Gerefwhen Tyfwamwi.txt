@@ -1,0 +1,27 @@
+---
+- ID: 70883571
+  Name: Gerefwhen Tyfwamwi
+  Tags: 
+  - ifc sme conf
+- Company: 
+  ID: 70883572
+  Name: Emodcticl South Africa
+- Contact: 
+  - 
+    - Phone_numbers
+    - 
+      - +27 12 555 1864
+      - 083 555 9008
+  - 
+    - Email_addresses
+    - 
+      - tyfwamwi@emodcticl.gov.za
+- Note 55985166: 
+  - 
+    Author: Opifceftie
+  - 
+    Written: "May 12, 2011 12:48"
+  - 
+    About: Gerefwhen Tyfwamwi
+  - 
+    Body: "Have to send her and Awcybo the letter of support we want from NT ASAP, as well as our materials to consider. May be some complications if we do South Africa exclusivity. Also send her the Ematararilis research."

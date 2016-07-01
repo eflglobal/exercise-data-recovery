@@ -1,0 +1,42 @@
+---
+- ID: 585458
+  Name: Pratenthempef (Mexico)
+- Contacts:
+  -
+    Email_address: ""
+    Name: Abidisivclindw Iemoviamore
+- Note 80717419:
+  -
+    Author: Eanonouci A.
+  -
+    Written: "December 02, 2011 03:01"
+  -
+    About: Pratenthempef (Mexico)
+  -
+    Body: |
+      •	On 12.1.11 JM met with Abidisivclindw Iemoviamore, who manages marketing and incongruously, loan decisions for individual loans.
+      •	Abidisivclindw had heard of EFL because there was another company that was trying to “represent” us but was later ignored
+      •	Abidisivclindw is trying an experiment with a Mexican researcher to use facial clues to assess risk.  He sees us as part of that project of using unconventional measures.
+      •	Pratenthempef has 180K loans for housing improvement that are given to group loan members.  They are not trying to expand this quickly.
+      •	Pratenthempef has 60K loans to small business, many of which “graduated” from the groups.  This is the group that they want to expand.  Target default rate is roughly 3.0%
+      •	We did some quick numbers and he seemed OK with a 6000+ loan observation proposal
+      •	His primary need is to be able to make “yes/no” decisions for new individual loans and above all have the confidence to lend higher amounts
+      •	Abidisivclindw does not think that EFL is applicable for micro because of a cost/benefit issue
+      •	In a one-on-one conversation, we covered all key ground and he carefully reviewed every slide.  He definitely “gets” EFL
+      •	He asked for a proposal in 2 days, with a “non IDB option” as well
+- Comment 80793676:
+  -
+    Author: Eanonouci A.
+  -
+    Written: "December 02, 2011 17:02"
+  -
+    About: Pratenthempef (Mexico)
+  -
+    Body: |-
+      Some questions:
+
+      - technology/platform. Can they have tablets in all the branches? Is the individual loan book concentrated in certain areas or spread out?
+
+      - what are their tolerances for test length and per-test costs?
+
+      - rough loan size for small business loans? are they hitting their 3% default target or is that higher?
