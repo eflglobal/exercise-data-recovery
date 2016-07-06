@@ -16,8 +16,10 @@ that extracts the data into a set of CSV files.
 You may use any language/framework to complete this exercise.
 
 ## Hints
-- Your company switches CRM providers on a regular basis.
 - The new CRM has an extremely flexible import system, so it's up to you to
     structure the CSV files however you think makes the most sense.
 - You may need to make assumptions about the meaning/purpose of some of the
     data. As long as you can justify it, we'll play along.
+- Since this is a programming exercise with a time limit, keep in mind that a
+    great solution that's 80% complete is better than a mediocre solution
+    that's 100% complete.
